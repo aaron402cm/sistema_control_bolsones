@@ -1,0 +1,6 @@
+{
+  "name": "Control IQBF — Sistema Portuario de Bolsones y Monitoreo CCTV",
+  "description": "Plataforma de alta velocidad para registro de bolsones IQBF en Muelle, Labarthe y Despacho con soporte multi-buque, protección antiduplicados, temáticas festivas y panel CCTV en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
